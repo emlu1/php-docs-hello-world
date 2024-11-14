@@ -19,7 +19,7 @@
                             Krifa.dk og Mit Krifa er i øjeblikket lukket, fordi vi arbejder på at forbedre din brugeroplevelse. Vi forventer, at vi er online igen hurtigst muligt.<br /><br />
                             Vi beklager ulejligheden.
                         </p>
-                        <p class="contactinfo">Har du brug for hjælp? Så er du meget velkommen til at ringe til os. Vi træffes på telefon 7227 7227 alle hverdage fra 8.00 til 18.00. </p>
+                        <p class="contactinfo">Har du brug for hjælp? Så er du meget velkommen til at ringe til os. Vi træffes på telefon 7227 7227 alle hverdage fra 8.00 til 17.00. </p>
                     </div>
                 </div>
                 <div class="row">
